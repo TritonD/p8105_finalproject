@@ -24,3 +24,6 @@ interested in this topic.
 applicants by states, years, industries (SOC code/SOC name) and
 nationalities Wage distribution of Visa applicants The average length
 for process period for the Visa application
+
+**The anticipated data sources**
+<https://public.enigma.com/datasets/h-1-b-visa-applications-2018/51d8447d-7e47-4334-8373-610ee46b69e6?filter=%2B%5B%3Eemployer_state%5BCA%5D%5D>
