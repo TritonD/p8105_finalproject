@@ -1,6 +1,6 @@
 ---
 title: "p8105_finalproject"
-author: "TritonD"
+author: "Xingyuan Chen, Xin He, Yunzhi Qian, Stephanie Zhen, Katie Gao"
 date: "11/5/2019"
 output: github_document
 ---

@@ -1,6 +1,6 @@
 p8105\_finalproject
 ================
-TritonD
+Xingyuan Chen, Xin He, Yunzhi Qian, Stephanie Zhen, Katie Gao
 11/5/2019
 
 # P8105 Final Project Proposal
