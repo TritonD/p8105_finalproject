@@ -2,7 +2,7 @@
 title: "p8105_finalproject"
 author: "TritonD"
 date: "11/5/2019"
-output: html_document
+output: github_document
 ---
 
 # P8105 Final Project Proposal 
