@@ -27,3 +27,13 @@ for process period for the Visa application
 
 **The anticipated data sources**
 <https://public.enigma.com/datasets/h-1-b-visa-applications-2018/51d8447d-7e47-4334-8373-610ee46b69e6?filter=%2B%5B%3Eemployer_state%5BCA%5D%5D>
+
+**The planned analyses/visualizations/ coding challenges** We need to
+selectively merge datasets of different years into one final dataset We
+need to choose suitable variables and recategorize variables for data
+visualizations We need to create plots (scatterplots, line plots, bar
+plots, box plots, etc.) Create web-page and dashboard for final product.
+
+**The planned timeline** Form a team and submit a proposal (11/5)
+Project review meeting (11/15) Report & Webpage and screencast (11/22)
+Peer assessment (12/1) “In class” discussion of projects (12/10)
