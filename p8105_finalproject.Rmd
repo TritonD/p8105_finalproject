@@ -1,0 +1,13 @@
+---
+title: "p8105_finalproject"
+author: "TritonD"
+date: "11/5/2019"
+output: html_document
+---
+
+# P8105 Final Project Proposal 
+
+**The group members (names and UNIs)**
+Xingyuan Chen (xc2473);  Xin He (xh2395); Yunzhi Qian (yq2251); Stephanie Zhen (sz2800); Katie Gao (kxg2002)
+
+
